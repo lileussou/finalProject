@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "title": "soju 1"
+    "title": "soju 1",
     "description": "soju pamplemousse"
   },
   {
     "id": 2,
-    "title": "soju 2"
+    "title": "soju 2",
     "description": "soju fraise"
   },
   {
     "id": 3,
-    "title": "soju 3"
+    "title": "soju 3",
     "description": "soju nature"
   }
 ]
